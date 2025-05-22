@@ -1,5 +1,8 @@
 # 💫 About Me:
-Currently studying at FMI
+I am an aspiring software engineer currently pursuing a Bachelor's degree in Software Engineering at the Faculty of Mathematics and Informatics, Sofia University “St. Kliment Ohridski” (2024 – present).
+Before university, I graduated from the High School of Mathematics “Dr. Petar Beron” in Varna (МГ Варна), where I developed a strong interest in problem-solving, algorithms, and programming.
+I have also completed programming courses at SoftUni, where I gained practical experience with JavaScript and C#, focusing on building real-world applications and learning software development fundamentals.
+I am passionate about clean code, learning new technologies, and constantly improving as a developer.
 
 
 ## 🌐 Socials:
